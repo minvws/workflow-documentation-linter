@@ -1,0 +1,3 @@
+* @minvws/icore-codeowners-coordination
+# Last match takes precedence
+.github/CODEOWNERS @minvws/irealisatie-operations
