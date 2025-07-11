@@ -3,7 +3,7 @@
 - This pipeline is designed to run [DavidAnson Markdown linter](https://github.com/DavidAnson/markdownlint?tab=readme-ov-file#markdownlint)
 when a pull request is created
 - The pipeline is designed to be as generic as possible, so they can be easily reused in any project.
-- This repository is a part of the generic GitHub Actions pipeline collection that can be used in any project.
+- This repository is part of the generic GitHub Actions pipeline collection that can be used in any project.
 
 ## Usage
 
