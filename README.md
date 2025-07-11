@@ -7,7 +7,7 @@ when a pull request is created
 
 ## Usage
 
-The documentation linter workflow is called from a workflow in the private repository.
+The documentation linter workflow is called from a workflow in a repository.
 Here is a basic example of how you can integrate it in your project.
 
 <details>
