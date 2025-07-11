@@ -5,7 +5,7 @@ on:
       - '**.md'
 jobs:
   mdlint:
-    name: lint markDown file
+    name: lint Markdown file
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
