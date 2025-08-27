@@ -25,7 +25,7 @@ on:
 
 jobs:
     documentation-linter:
-    uses: minvws/workflow-documentation-linter/.github/workflows/repo-sync.yml@main
+    uses: minvws/workflow-documentation-linter/.github/workflows/documentation-linter.yml@main
 ```
 
 </details>
